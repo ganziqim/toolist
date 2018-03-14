@@ -66,4 +66,6 @@ macOS 上自带的终端不太好用，使用 iTerm2 的话对于显示效果会
 
 据说前端人员喜欢 chrome，因为 chrome 上的开发者工具很好用。对于我来说，没有插件的 chrome 跟别的浏览器没啥区别，不过装上插件之后就不一样了，chrome 上丰富的插件可以实现广告拦截、标签页管理和翻译等等功能。
 
+点击跳转到[chrome插件](https://github.com/ganziqim/toolist/blob/master/chromeplugs.md)。
+
 <https://www.google.cn/chrome/>
